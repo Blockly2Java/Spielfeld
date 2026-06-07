@@ -1,3 +1,5 @@
+[![licensebadge](https://img.shields.io/badge/license-MIT-blue)](https://choosealicense.com/licenses/mit/)
+
 <!-- START Adjust URL -->
 [![Solution passing all tests](https://img.shields.io/github/actions/workflow/status/Blockly2Java/Template/test-solution.yml?branch=main&label=Solution%20passing%20all%20tests)](https://github.com/Blockly2Java/Template/actions/workflows/test-solution.yml)
 [![Template compiling successfully](https://img.shields.io/github/actions/workflow/status/Blockly2Java/Template/test-template.yml?branch=main&label=Template%20compiling%20successfully)](https://github.com/Blockly2Java/Template/actions/workflows/test-template.yml)
