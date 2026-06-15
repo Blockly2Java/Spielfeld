@@ -6,7 +6,7 @@ plugins {
 // ---------------------------------------------------------------------------
 // Configurable properties (mirrors Maven pom.xml properties)
 // ---------------------------------------------------------------------------
-def exerciseTestArtifactId = findProperty('exerciseTestArtifactId') ?: 'templaterepo_tests'
+def exerciseTestArtifactId = findProperty('exerciseTestArtifactId') ?: 'spielfeld_tests'
 def exerciseTestVersion = findProperty('exerciseTestVersion') ?: '[0.1.0,)'
 def glassPlatform = findProperty('glass.platform') ?: 'Headless'
 def osName = System.getProperty('os.name').toLowerCase(Locale.ROOT)

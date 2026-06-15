@@ -1,8 +1,8 @@
 [![licensebadge](https://img.shields.io/badge/license-MIT-blue)](https://choosealicense.com/licenses/mit/)
 
 <!-- START Adjust URL -->
-[![Solution passing all tests](https://img.shields.io/github/actions/workflow/status/Blockly2Java/TemplateRepo/test-solution.yml?branch=main&label=Solution%20passing%20all%20tests)](https://github.com/Blockly2Java/TemplateRepo/actions/workflows/test-solution.yml)
-[![Template compiling successfully](https://img.shields.io/github/actions/workflow/status/Blockly2Java/TemplateRepo/test-template.yml?branch=main&label=Template%20compiling%20successfully)](https://github.com/Blockly2Java/TemplateRepo/actions/workflows/test-template.yml)
+[![Solution passing all tests](https://img.shields.io/github/actions/workflow/status/Blockly2Java/Spielfeld/test-solution.yml?branch=main&label=Solution%20passing%20all%20tests)](https://github.com/Blockly2Java/Spielfeld/actions/workflows/test-solution.yml)
+[![Template compiling successfully](https://img.shields.io/github/actions/workflow/status/Blockly2Java/Spielfeld/test-template.yml?branch=main&label=Template%20compiling%20successfully)](https://github.com/Blockly2Java/Spielfeld/actions/workflows/test-template.yml)
 <!-- END Adjust URL -->
 
 ## Abstract
@@ -19,7 +19,7 @@ To set up the workspace for local development:
 
 1. Clone this repository into a new folder:
    ```bash
-   git clone git@github.com:Blockly2Java/TemplateRepo.git
+   git clone git@github.com:Blockly2Java/Spielfeld.git
    ```
 2. Navigate into the cloned folder and run the setup script:
    ```bash

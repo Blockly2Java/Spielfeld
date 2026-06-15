@@ -1,4 +1,4 @@
-# Developer Documentation — Blockly2J TemplateRepo Exercise
+# Developer Documentation — Blockly2J Spielfeld Exercise
 
 ## 1. Project Overview
 
