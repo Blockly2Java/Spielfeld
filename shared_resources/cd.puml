@@ -26,5 +26,6 @@ class Main {
     {static} + void main()
 }
 
+FeldGenerator <|-- FeldGenerator2D
 
 @enduml
