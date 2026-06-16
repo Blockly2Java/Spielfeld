@@ -11,15 +11,15 @@ class FeldGenerator {
     - int anzahlZeilen
     - int anzahlSpalten
     - FilledShape[] feld
-    + void generiereFeld(int zeilen, int spalten)
+    + void generiereFeld(int anzahlZeilen, int anzahlSpalten)
     + void setzeFarbe(String farbe, int x, int y)
 }
 
 class FeldGenerator2D {
     - FilledShape[][] feld
     + void generiereFeld(int anzahlZeilen, int anzahlSpalten)
-    + FilledShape[] spalteErzeugen(int anzahlZeilen, int x)
     + void setzeFarbe(String farbe, int x, int y)
+    + FilledShape[] spalteErzeugen(int anzahlZeilen, int xKoordinate)
 }
 
 class Main {
